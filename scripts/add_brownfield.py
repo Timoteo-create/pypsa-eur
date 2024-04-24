@@ -6,7 +6,7 @@
 Prepares brownfield data from previous planning horizon.
 """
 
-import logging
+#import logging
 
 logger = logging.getLogger(__name__)
 
